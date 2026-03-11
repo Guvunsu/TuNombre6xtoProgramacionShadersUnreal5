@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PC2-Alumno 1/Documents/TuNombre6xtoProgramacionShadersUnreal5/Shaders/Shaders/Content/Materials/PostProcers/m_CRT.uasset",
+				"C:/Users/PC2-Alumno 1/Documents/TuNombre6xtoProgramacionShadersUnreal5/Shaders/Shaders/Content/Materials/M_Earth.uasset",
+				"C:/Users/PC2-Alumno 1/Documents/TuNombre6xtoProgramacionShadersUnreal5/Shaders/Shaders/Content/Materials/mf_lighMask.uasset",
+				"C:/Users/PC2-Alumno 1/Documents/TuNombre6xtoProgramacionShadersUnreal5/Shaders/Shaders/Content/Materials/MF_SimplePanner.uasset",
 				"C:/Users/PC2-Alumno 1/Downloads/Shaders/Shaders/Content/Materials/mf_lighMask.uasset",
 				"C:/Users/PC2-Alumno 1/Downloads/Shaders/Shaders/Content/Materials/M_Earth.uasset",
 				"C:/Users/PC2-Alumno 1/Downloads/Shaders/Shaders/Content/Materials/MF_SimplePanner.uasset",
